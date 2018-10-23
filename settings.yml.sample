@@ -1,0 +1,7 @@
+# make your own settings.yml based on this file
+
+root_folder: /home/username/cats/
+log_file: uploader.log
+
+folder_captions:
+ - american_shorthairs: American shorthair

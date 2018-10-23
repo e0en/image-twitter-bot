@@ -1,0 +1,6 @@
+*.pyc
+__pycache__
+*.log
+twitter-api-key.json
+used_files.txt
+settings.yml
