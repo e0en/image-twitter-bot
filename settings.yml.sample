@@ -2,6 +2,7 @@
 
 root_folder: /home/username/cats/
 log_file: uploader.log
+dropbox_token: [your_dropbox_access_token]
 
 folder_captions:
  - american_shorthairs: American shorthair
